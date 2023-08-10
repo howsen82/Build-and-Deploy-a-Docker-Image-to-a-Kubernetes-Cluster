@@ -2,10 +2,12 @@
 
 ## Prerequisites 
 
+```
 EXPORT ZONE=
 EXPORT CLUSTER_NAME=
 EXPORT APP_NAME=
 EXPORT MACHINE_TYPE=
+```
 
 1 Before starting this lab, we need to download the source code of the application which is given in the lab instruction.
 ```
